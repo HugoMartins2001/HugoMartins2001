@@ -38,3 +38,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=HugoMartins2001&show_icons=true&locale=en" alt="HugoMartins2001" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HugoMartins2001&" alt="HugoMartins2001" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoMartins2001&show_icons=true&locale=en&layout=compact" alt="HugoMartins2001" /></p>
+
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HugoMartins2001&theme=gotham&show_icons=true&hide_border=false&count_private=true" height="130" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HugoMartins2001&theme=gotham&hide_border=false" height="130" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoMartins2001&theme=gotham&show_icons=true&hide_border=false&layout=compact" height="130" alt="stats graph" />
+</div>
+ 
