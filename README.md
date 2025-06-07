@@ -43,7 +43,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoMartins2001&theme=gotham&show_icons=true&hide_border=false&layout=compact" height="130" alt="stats graph" />
 </div>
 
-<img src="https://raw.githubusercontent.com/HugoMartins2001/HugoMartins2001/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HugoMartins2001/HugoMartins2001/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HugoMartins2001/HugoMartins2001/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HugoMartins2001/HugoMartins2001/output/github-snake.svg" />
+</picture>
  
 <h2 align="left">Visitas ao perfil:</h2>
 <div align="left">
