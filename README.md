@@ -21,4 +21,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=HugoMartins2001&show_icons=true&locale=en" alt="HugoMartins2001" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HugoMartins2001&" alt="HugoMartins2001" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoMartins2001&show_icons=true&locale=en&layout=compact" alt="HugoMartins2001" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HugoMartins2001" alt="HugoMartins2001" /></a></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HugoMartins2001/HugoMartins2001/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HugoMartins2001/HugoMartins2001/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HugoMartins2001/HugoMartins2001/output/pacman-contribution-graph.svg">
+</picture>
