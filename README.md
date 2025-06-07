@@ -21,4 +21,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=HugoMartins2001&show_icons=true&locale=en" alt="HugoMartins2001" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HugoMartins2001&" alt="HugoMartins2001" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoMartins2001&show_icons=true&locale=en&layout=compact" alt="HugoMartins2001" /></p>
-<img src="https://raw.githubusercontent.com/HugoMartins2001/HugoMartins2001/output/snake.svg" alt="Snake animation" />
