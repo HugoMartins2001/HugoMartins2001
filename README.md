@@ -42,6 +42,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HugoMartins2001&theme=gotham&hide_border=false" height="130" alt="languages graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoMartins2001&theme=gotham&show_icons=true&hide_border=false&layout=compact" height="130" alt="stats graph" />
 </div>
+
+<img src="https://raw.githubusercontent.com/HugoMartins2001/HugoMartins2001/output/snake.svg" alt="Snake animation" />
  
 <h2 align="left">Visitas ao perfil:</h2>
 <div align="left">
