@@ -35,11 +35,8 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/hugo-martins-75058b2ba" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/hugo.martins.35728466" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/hugo.martins23" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=HugoMartins2001&show_icons=true&locale=en" alt="HugoMartins2001" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HugoMartins2001&" alt="HugoMartins2001" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoMartins2001&show_icons=true&locale=en&layout=compact" alt="HugoMartins2001" /></p>
 
-
+<h2>💥 Stats</h2>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HugoMartins2001&theme=gotham&show_icons=true&hide_border=false&count_private=true" height="130" alt="languages graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HugoMartins2001&theme=gotham&hide_border=false" height="130" alt="languages graph" />
