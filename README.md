@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Hugo
 
 🎓 Estudante de Portugal, apaixonado por desenvolvimento **frontend** e **backend**.<br>
-Sempre em busca de me tornar a melhor versão de mim mesmo.
+
 
 ---
 
