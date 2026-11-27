@@ -30,10 +30,10 @@ Estudante de Segurança Informática em Redes de Computadores em Portugal, com f
 
 | Área | Stack |
 | :--- | :--- |
-| **Segurança & Redes** | Kali Linux, OPNsense (IDS/IPS), Burp Suite, Tailscale |
-| **Infraestrutura & DevSecOps** | Linux, Proxmox VE, TrueNAS, Nginx, GitHub Actions, PM2 |
+| **Segurança & Redes** | Kali Linux, OPNsense (IDS/IPS), Tailscale |
+| **Infraestrutura & DevSecOps** | Linux, Proxmox VE, TrueNAS, GitHub Actions, PM2 |
 | **Frontend** | TypeScript, JavaScript, React, Next.js, Angular, HTML5, CSS3 |
-| **Backend** | Node.js, Prisma, PHP |
+| **Backend** | Node.js, PHP |
 | **Bases de Dados & Outras Linguagens** | MySQL, MongoDB, Java, C |
 
 ---
