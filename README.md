@@ -10,7 +10,7 @@ Estudante de Segurança Informática em Redes de Computadores em Portugal, com f
 
 * **Segurança & Redes:** Análise de tráfego, deteção de intrusões (IDS/IPS), configuração de firewalls e testes de segurança aplicacional.
 * **DevSecOps & Infraestrutura:** Administração de servidores Linux, virtualização, reverse proxies, automação de deploys e pipelines de CI/CD.
-* **Desenvolvimento Web:** Construção de aplicações full-stack, APIs e interfaces modernas com foco em arquitetura limpa e segurança.
+* **Desenvolvimento Web:** Construção de aplicações, APIs e interfaces modernas com foco em arquitetura limpa e segurança.
 
 ---
 
@@ -22,7 +22,6 @@ Estudante de Segurança Informática em Redes de Computadores em Portugal, com f
 * **Automação & Deploy (VPS):** Gestão de aplicações em produção em servidores Linux utilizando **Nginx** como reverse proxy, **PM2** para gestão de processos e **GitHub Actions** para CI/CD.
 
 #### Desenvolvimento Web
-* **AMP-Advogada:** Aplicação web institucional em **Next.js** integrada com um serviço backend dedicado em **Node.js/TypeScript** para gestão de envios SMTP, com deploy automatizado via CI/CD.
 * **PerfectCarDetail:** Plataforma web full-stack (frontend e API backend) alojada em VPS com integração contínua e gestão de serviços em produção.
 
 ---
