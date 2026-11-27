@@ -1,72 +1,73 @@
-# 👋 Olá! Eu sou o Hugo
+<div align="center">
 
-🎓 Estudante de Portugal, apaixonado por desenvolvimento **frontend** e **backend**.<br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Eu+sou+o+Hugo+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Estudante+em+Portugal+%F0%9F%87%B5%F0%9F%87%B9" alt="Typing SVG" />
+  </a>
 
+  <p>
+    🎓 Estudante apaixonado por desenvolvimento <b>Frontend</b>, <b>Backend</b> e <b>Infraestrutura</b>.
+  </p>
 
----
+  <br/>
 
-## 🖥️ Frontend
+  <!-- Redes Sociais + Contador de Visitas -->
+  <a href="https://www.linkedin.com/in/hugo-martins-75058b2ba" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/hugo.martins23" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/hugo.martins.35728466" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=HugoMartins2001&label=Visitas&color=38BDF8&style=flat-square" alt="Visitas ao perfil" />
 
-<div>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/></a>
-  <a href="https://angular.io/" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/></a>
 </div>
 
----
+<br/>
 
-## 💾 Backend
+### 🛠️ Tech Stack
 
-<div>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"/></a>
+<div align="center">
+
+  **Frontend**
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,html,css,bootstrap" alt="Frontend Stack" />
+
+  <br/><br/>
+
+  **Backend & Bases de Dados**
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,php,mysql,mongodb" alt="Backend Stack" />
+
+  <br/><br/>
+
+  **Outras Linguagens & Ferramentas**
+  <br/>
+  <img src="https://skillicons.dev/icons?i=java,c,linux,nginx,githubactions,git,postman" alt="Tools & Other Languages" />
+
 </div>
 
----
+<br/>
 
-## 🧠 Outras Linguagens
+### 📊 Estatísticas do GitHub
 
-<div>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"/></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HugoMartins2001&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoMartins2001&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="Top Languages"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HugoMartins2001&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
 </div>
 
----
+<br/>
 
-## ⚡️ Onde me encontrar
+### 🐍 Contribuições
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a77b6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-martins-75058b2ba)
-[![Facebook](https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hugo.martins.35728466)
-[![Instagram](https://img.shields.io/badge/Instagram-F35369?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hugo.martins23)
-
----
-
-## 💥 Estatísticas
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HugoMartins2001&theme=gotham&show_icons=true&hide_border=false&count_private=true" height="130" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HugoMartins2001&theme=gotham&hide_border=false" height="130" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoMartins2001&theme=gotham&show_icons=true&hide_border=false&layout=compact" height="130" alt="top-langs"/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HugoMartins2001/HugoMartins2001/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HugoMartins2001/HugoMartins2001/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/HugoMartins2001/HugoMartins2001/output/github-snake.svg" />
+  </picture>
 </div>
-
----
-
-## 🐍 Snake Contribution
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HugoMartins2001/HugoMartins2001/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HugoMartins2001/HugoMartins2001/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/HugoMartins2001/HugoMartins2001/output/github-snake.svg" />
-</picture>
-
----
-
-## 👀 Visitas ao perfil
-
-<img src="https://profile-counter.glitch.me/HugoMartins2001/count.svg?" />
