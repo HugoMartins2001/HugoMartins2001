@@ -1,20 +1,28 @@
 # Hugo Martins
 
-Estudante de Engenharia Informática em Portugal, focado em desenvolvimento Full-Stack (Web e Mobile), APIs e infraestrutura de servidores.
+Estudante de Segurança Informática em Redes de Computadores em Portugal, com foco em DevSecOps, infraestrutura de servidores, cibersegurança e desenvolvimento web.
 
-[LinkedIn](https://www.linkedin.com/in/hugo-martins-75058b2ba) · [Instagram](https://www.instagram.com/hugo.martins23)
+[LinkedIn](https://www.linkedin.com/in/hugo-martins-75058b2ba)
 
 ---
 
-### Tecnologias
+### Áreas de Foco
+
+* **Segurança & Redes:** Análise de tráfego, deteção de intrusões (IDS/IPS), firewalls e testes de segurança aplicacional.
+* **DevSecOps & Infraestrutura:** Administração de servidores Linux, virtualização, reverse proxies e pipelines de CI/CD.
+* **Desenvolvimento Web:** Construção de aplicações full-stack, APIs e interfaces modernas com foco em arquitetura limpa e segurança.
+
+---
+
+### Tecnologias & Ferramentas
 
 | Área | Stack |
 | :--- | :--- |
+| **Segurança & Redes** | Kali Linux, OPNsense (IDS/IPS), Burp Suite, Tailscale |
+| **Infraestrutura & DevSecOps** | Linux, Proxmox VE, Nginx, GitHub Actions, PM2 |
 | **Frontend** | TypeScript, JavaScript, React, Next.js, Angular, HTML5, CSS3, Bootstrap |
 | **Backend** | Node.js, Express, Prisma, PHP |
-| **Bases de Dados** | MySQL, MongoDB |
-| **Outras Linguagens** | Java, C |
-| **Infraestrutura & Ferramentas** | Linux, Nginx, Git, GitHub Actions, Postman |
+| **Bases de Dados & Outras Linguagens** | MySQL, MongoDB, Java, C |
 
 ---
 
