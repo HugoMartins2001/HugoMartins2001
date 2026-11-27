@@ -9,8 +9,8 @@ Estudante de Segurança Informática em Redes de Computadores em Portugal, com f
 ### Áreas de Foco
 
 * **Segurança & Redes:** Análise de tráfego, deteção de intrusões (IDS/IPS), firewalls e testes de segurança aplicacional.
-* **DevSecOps & Infraestrutura:** Administração de servidores Linux, virtualização, reverse proxies e pipelines de CI/CD.
-* **Desenvolvimento Web:** Construção de aplicações full-stack, APIs e interfaces modernas com foco em arquitetura limpa e segurança.
+* **DevSecOps & Infraestrutura:** Administração de servidores Linux, virtualização e pipelines de CI/CD.
+* **Desenvolvimento Web:** Construção de aplicações, APIs e interfaces modernas com foco em arquitetura limpa e segurança.
 
 ---
 
@@ -20,8 +20,8 @@ Estudante de Segurança Informática em Redes de Computadores em Portugal, com f
 | :--- | :--- |
 | **Segurança & Redes** | Kali Linux, OPNsense (IDS/IPS), Burp Suite, Tailscale |
 | **Infraestrutura & DevSecOps** | Linux, Proxmox VE, Nginx, GitHub Actions, PM2 |
-| **Frontend** | TypeScript, JavaScript, React, Next.js, Angular, HTML5, CSS3, Bootstrap |
-| **Backend** | Node.js, Express, Prisma, PHP |
+| **Frontend** | TypeScript, JavaScript, React, Next.js, Angular, HTML5, CSS3 |
+| **Backend** | Node.js, Prisma, PHP |
 | **Bases de Dados & Outras Linguagens** | MySQL, MongoDB, Java, C |
 
 ---
