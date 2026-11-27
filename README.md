@@ -62,5 +62,5 @@ Estudante de Segurança Informática em Redes de Computadores em Portugal, com f
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=HugoMartins2001&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HugoMartins2001&theme=github_dark" alt="GitHub Profile Details" />
 </p>
